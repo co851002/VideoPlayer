@@ -1,0 +1,19 @@
+.container ul {
+    width: 640px;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    margin-left: 0;
+    display: inline-block;
+    margin-top: 5px;
+}
+
+.container ul li {
+    list-style-type: none;
+    float: left;
+    width: 33%;
+    text-align: center;
+}
+li{
+    float: left;
+}
